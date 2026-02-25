@@ -4,7 +4,7 @@
         {{-- Header --}}
         <div class="flex justify-between items-center mb-8">
             <h1 class="text-3xl font-bold tracking-wide text-yellow-400 drop-shadow-lg">
-                Notes
+                Tus Notas
             </h1>
 
             <a href="{{ route('page.note.create') }}"
@@ -16,7 +16,7 @@
                     stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
                 </svg>
-                Create Note
+                Crear Nota
             </a>
         </div>
 
